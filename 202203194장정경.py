@@ -1,8 +1,37 @@
 #202203194 장정경
+#import random
 
-def xy_Average() :
-    x = random.randrange(0,0)
-    y = random.randrange(0,0)
+#def int10_sort():
+#    x = []
+#    for i in range(0,10) :
+#        x.append(random.randrange(0,100))
+#        print(" %d" % x[i], end='')
+#    print("")
+#    print(x)
+#    x.sort()
+#    print(x)
+
+#def even_num() :
+
+#    even_hap = 0
+#    for i in range(1,51):   
+#        if (i%2) == 0 :
+#            even_hap = even_hap + i
+#            print("%d even number sum = %d"% (i, even_hap))
+            
+#    print("even number sum = %d"% even_hap)    
+
+#def odd_num() :
+
+#    odd_hap = 1
+#    for i in range(1,51):   
+#        if (i%2) == 1 :
+#            odd_hap = odd_hap + i
+#            print("%d odd number sum = %d"% (i, odd_hap))
+#    print("odd number sum = %d"% odd_hap)
+#def xy_Average() :
+#    x = random.randrange(0,0)
+#    y = random.randrange(0,0)
 
 while True :
         print("---------------------")
